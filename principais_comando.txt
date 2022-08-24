@@ -1,0 +1,5 @@
+os principais comandos sao de maneira geral:
+cd, mkdir, touch para criar arquivo de text, git commit -m '', ls, git checkout -b namebranch para criar branchs, git switch ou checkout nome do branch para trocar de branch, git branch
+para saber quantos banchs tem criados, git branch -D nomeDoBranch para deletar... git status para conferir status dos arquivos, git log para ver ultimas mudanças...
+
+haha

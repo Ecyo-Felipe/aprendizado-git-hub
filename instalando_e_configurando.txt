@@ -1,0 +1,2 @@
+Primeiramente voce deve fazer o download e depois configurar o git
+da melhor maneira que te agrada.

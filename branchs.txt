@@ -1,0 +1,2 @@
+Branchs são camadas/repositorios que voce pode ir salvando partes de codigos mas nao necesarriamente modificando
+os aquivos principais que estão na main.

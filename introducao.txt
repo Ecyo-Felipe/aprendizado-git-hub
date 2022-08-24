@@ -1,0 +1,3 @@
+Git e Github são escolhas que vão te ajudar para um melhor trabalho em equipe,
+podendendo voce compartilhar seus codigos com outras pessoas para todos contribuirem
+sem que seja de maneira confusa.

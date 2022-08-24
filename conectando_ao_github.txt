@@ -1,0 +1,3 @@
+Para conectar arquivos modificados ao git hub
+é sempre importante lembrar do add todas as atualizacoes, dar um commit e depois o
+git push origin e o nome do branch desejado que você quer subir
